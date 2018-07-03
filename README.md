@@ -1,7 +1,8 @@
 # Analyze-convert-Python
 Analyze the data with with using api and convert from csv and url=> to python using python.
 Second part using numpy.
-In the following part use the file from source:https://raw.githubusercontent.com/justmarkham/pandas-videos/master/data/drinks.csv
+In the following part use the file from source:
+https://raw.githubusercontent.com/justmarkham/pandas-videos/master/data/drinks.csv
 
 1.write a program to get the drinks by country CSV and print it to the console
 2.write a program that saves the drinks CSV to a local file named drinks.csv
@@ -9,7 +10,8 @@ In the following part use the file from source:https://raw.githubusercontent.com
 4.Write a program calculates the average total litres of pure alcohol.
 
 In the following part use the specific mentioned file:
-5.Write a program reads the to-do list from http://jsonplaceholder.typicode.com/todos and calculates the rate of un completed tasks.
+5.Write a program reads the to-do list from 
+http://jsonplaceholder.typicode.com/todos and calculates the rate of un completed tasks.
 6.Write a program that counts the occurrences of words in 'Alice in Wonderland' and prints each word and its occurrences count.
 
 source: http://www.umich.edu/~umfandsf/other/ebooks/alice30.txtRun 
